@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Gaurav 👋
 
-<!--
-**gauravmadarkal/gauravmadarkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ :smiley: - I'm currently working at Betsol
+ :globe_with_meridians: - Reach out to me -> [Linkedin], [Facebook], [Instagram] :)
+  - My Apps [Hush]
 
-Here are some ideas to get you started:
+##### Little more about me
+<img src="./myimg.png" width="250">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   [Website]: <https://github.com/joemccann/dillinger>
+   [Linkedin]: <https://www.linkedin.com/in/gaurav-madarkal-354b0b140/>
+   [Facebook]: <https://www.facebook.com/gaurav.madarkal/t>
+   [Instagram]: <https://www.instagram.com/gauravmadarkal//>
+   [Hush]: <https://hushapps.in>
+  
