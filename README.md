@@ -5,7 +5,7 @@
  - My Apps [Hush]
 
 ##### Little more about me
-<img src="https://github.com/gauravmadarkal/gauravmadarkal/blob/master/aboutme.PNG" width="800" height="500">
+<img src="https://github.com/gauravmadarkal/gauravmadarkal/blob/master/aboutme.PNG" width="1000" height="500">
 
    [Website]: <https://github.com/joemccann/dillinger>
    [Linkedin]: <https://www.linkedin.com/in/gaurav-madarkal-354b0b140/>
