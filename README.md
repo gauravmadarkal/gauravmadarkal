@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav 👋
 
- - I'm currently working at Betsol :smiley: 
+ - I'm currently working at Bella&Bona :smiley: 
  - Reach out to me -> [Linkedin], [Facebook], [Instagram] :globe_with_meridians: 
  - My Apps [Hush]
 
